@@ -36,8 +36,8 @@ body {
 
 header {
     background-color: #f5f5f5;
-    padding: 40px 20px; /* Increased padding to make the gray area bigger */
-    margin: -20px -20px 20px -20px; /* Extend the gray section to the top and sides of the paper */
+    padding: 40px 20px; 
+    margin: -20px -20px 20px -20px; 
     display: flex;
     justify-content: space-between;
 }
